@@ -1,5 +1,5 @@
 # Let's Encrypt Azure Function Demo
-This project was created as a support mechanism for a blog post posted at [https://jasongaylord.com/blog/securing-your-website-for-free](https://jasongaylord.com/blog/securing-your-website-for-free). If you find an error with the code provided, please submit an issue or a pull request.
+This project was created as a support mechanism for a blog post posted at [https://jasongaylord.com/blog/securing-your-website-for-free](https://bit.ly/2ZBHggD). If you find an error with the code provided, please submit an issue or a pull request.
 
 In the run.csx file, you'll find 13 variables that have been defined and need to be replaced. I've grouped the variables and their values together below.
 
